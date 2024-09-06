@@ -15,7 +15,6 @@ Token Orchestrator is a backend service built using Node.js, Express, and MongoD
 
 - JWT token generation and management (access and refresh tokens)
 - Secure token storage using MongoDB
-- Refresh token mechanism to keep sessions active
 - Token validation and revocation
 - Modular and scalable code structure with controllers, routes, and utilities
 
